@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://erffan348-dotcom.github.io/sitemap.xml
